@@ -1,0 +1,166 @@
+accession	locus	organism	mol_type	strain	country	location	continent	collection_date.y	collection_date.m	collection_date.d	host	isolation_source	isolate	length	N	M	F	HN	L	NP	P	D
+AB736166.1	AB736166	Human respirovirus 3	viral cRNA	ZMLS/2011	Zambia	Livingstone	Africa	2011	11	1	Papio ursinus spleen	NA	NA	15298	100	100	100	100	100	100	100	100
+FJ455842.2	FJ455842	Human respirovirus 3	viral cRNA	LZ22	China	"Lanzhou, Gansu"	Asia	2003	12	1	Homo sapiens	low respiratory tract secretion from	NA	15462	100	100	100	100	100	100	100	100
+KF530232.1	KF530232	Human respirovirus 3	viral cRNA	HPIV3/USA/10991B/2010	USA	SE Wisconsin	NorthAm	2010	7	6	Homo sapiens; sex: M; age: 2Y	NA	NA	15405	100	100	100	100	100	99.87080103	100	100
+KF530233.1	KF530233	Human respirovirus 3	viral cRNA	HPIV3/FRA/29111069/2009	France	NA	Europe	2009	3	9	Homo sapiens	NA	NA	15405	100	100	100	100	100	99.87080103	100	100
+KF530234.1	KF530234	Human respirovirus 3	viral cRNA	HPIV3/MEX/1526/2005	Mexico	NA	NorthAm	2005	2	11	Homo sapiens; sex: M; age: 8M	NA	NA	15340	100	100	100	100	100	100	100	100
+KF530236.1	KF530236	Human respirovirus 3	viral cRNA	HPIV3/FRA/30264021/2010	France	NA	Europe	2010	7	1	Homo sapiens	NA	NA	15405	100	100	100	100	100	100	100	100
+KF530245.1	KF530245	Human respirovirus 3	viral cRNA	HPIV3/ARG/10068/2004	Argentina	NA	SouthAm	2004	11	17	Homo sapiens	NA	NA	15382	100	100	100	100	100	100	100	100
+KF530250.1	KF530250	Human respirovirus 3	viral cRNA	HPIV3/MEX/2545/2006	Mexico	NA	NorthAm	2006	2	20	Homo sapiens; sex: F; age: 23M	NA	NA	15405	100	100	100	100	100	99.87080103	100	100
+KF530253.1	KF530253	Human respirovirus 3	viral cRNA	HPIV3/FRA/27273076/2007	France	NA	Europe	2007	7	4	Homo sapiens	NA	NA	15405	100	100	100	100	100	100	100	100
+KF530257.1	KF530257	Human respirovirus 3	viral cRNA	HPIV3/ARG/15318/2007	Argentina	NA	SouthAm	2007	9	14	Homo sapiens	NA	NA	15382	100	100	100	100	100	100	100	100
+KF687319.1	KF687319	Human respirovirus 3	viral cRNA	HPIV3/MEX/1077/2004	Mexico	NA	NorthAm	2004	4	26	Homo sapiens; sex: M; age: 7M	NA	NA	15366	100	100	100	100	100	100	100	100
+KF687321.1	KF687321	Human respirovirus 3	viral cRNA	HPIV3/MEX/1110/2004	Mexico	NA	NorthAm	2004	5	31	Homo sapiens	NA	NA	15329	100	100	100	100	100	100	100	100
+KF687325.1	KF687325	Human respirovirus 3	viral cRNA	HPIV3/MEX/2831/2006	Mexico	NA	NorthAm	2006	6	6	Homo sapiens; sex: M	NA	NA	15172	100	100	100	100	98.37686292	100	100	100
+KF687340.1	KF687340	Human respirovirus 3	viral cRNA	HPIV3/ZAF/3372/2010	South Africa	NA	Africa	2010	10	15	Homo sapiens; sex: M; age: 3M	NA	NA	15263	100	100	100	100	100	100	100	100
+KF687354.1	KF687354	Human respirovirus 3	viral cRNA	HPIV3/FRA/30261045/2010	France	NA	Europe	2010	6	28	Homo sapiens	NA	NA	14615	100	100	100	100	90.03984064	100	100	100
+KF687357.1	KF687357	Human respirovirus 3	viral cRNA	HPIV3/USA/35084A/2011	USA	SE Wisconsin	NorthAm	2011	1	6	Homo sapiens; sex: M; age: 1Y	NA	NA	14682	100	100	100	100	91.14652501	100	100	100
+KJ672527.1	KJ672527	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU7965/2007	Peru	Piura	SouthAm	2007	8	25	Homo sapiens; sex: M; age: 1Y	NA	NA	15262	100	100	100	100	99.95573263	99.87080103	100	100
+KJ672529.1	KJ672529	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA4571/2008	Peru	Iquitos	SouthAm	2008	10	31	Homo sapiens; sex: F; age: 2Y	NA	NA	15266	100	100	100	100	100	99.87080103	100	100
+KJ672530.1	KJ672530	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA6024/2009	Peru	Piura	SouthAm	2009	2	10	Homo sapiens; sex: M; age: 5M	NA	NA	15227	100	100	100	100	99.43927992	100	100	100
+KJ672531.1	KJ672531	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP01456/2012	Peru	Piura	SouthAm	2012	5	22	Homo sapiens; sex: M; age: 9Y	NA	NA	15310	99.80620155	100	100	100	100	99.80620155	100	100
+KJ672532.1	KJ672532	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU9187/2007	Peru	Piura	SouthAm	2007	10	31	Homo sapiens; sex: M; age: 6M	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672533.1	KJ672533	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00794/2011	Peru	Piura	SouthAm	2011	8	29	Homo sapiens; sex: M; age: 1Y	NA	NA	15348	100	100	100	100	100	99.87080103	100	100
+KJ672534.1	KJ672534	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA4284/2008	Peru	Piura	SouthAm	2008	10	15	Homo sapiens; sex: M; age: 2Y	NA	NA	15063	100	100	100	100	97.01933009	99.87080103	100	100
+KJ672535.1	KJ672535	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00580/2011	Peru	Piura	SouthAm	2011	5	30	Homo sapiens; sex: M; age: 3Y	NA	NA	15341	100	100	100	100	100	99.87080103	100	100
+KJ672536.1	KJ672536	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00491/2011	Peru	Piura	SouthAm	2011	5	2	Homo sapiens; sex: F; age: 2Y	NA	NA	14672	99.35400517	100	100	100	91.81053564	99.35400517	100	100
+KJ672537.1	KJ672537	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00635/2011	Peru	Piura	SouthAm	2011	6	20	Homo sapiens; sex: F; age: 2Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672538.1	KJ672538	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA7452/2009	Peru	Piura	SouthAm	2009	5	14	Homo sapiens; sex: F; age: 38Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672539.1	KJ672539	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8586/2007	Peru	Iquitos	SouthAm	2007	9	17	Homo sapiens; sex: F; age: <1Y	NA	NA	15071	100	100	100	100	97.13737642	99.87080103	100	100
+KJ672541.1	KJ672541	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLI3293/2010	Peru	Piura	SouthAm	2010	8	31	Homo sapiens; sex: M; age: 1Y	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672542.1	KJ672542	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/CFI0090/2009	Peru	Iquitos	SouthAm	2009	9	21	Homo sapiens; sex: M; age: 2Y	NA	NA	15150	100	100	100	100	98.65722296	100	100	100
+KJ672545.1	KJ672545	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA7749/2009	Peru	Piura	SouthAm	2009	5	20	Homo sapiens; sex: F; age: 1Y	NA	NA	15202	100	100	100	100	99.07038513	99.87080103	100	100
+KJ672546.1	KJ672546	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8917/2007	Peru	Iquitos	SouthAm	2007	10	15	Homo sapiens; sex: M; age: 1Y	NA	NA	15319	100	100	100	100	100	99.87080103	100	100
+KJ672547.1	KJ672547	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA4275/2008	Peru	Piura	SouthAm	2008	10	2	Homo sapiens; sex: M; age: 2Y	NA	NA	15295	100	100	100	100	100	100	100	100
+KJ672549.1	KJ672549	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00584/2011	Peru	Piura	SouthAm	2011	5	31	Homo sapiens; sex: F; age: 5M	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672552.1	KJ672552	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA7771/2009	Peru	Piura	SouthAm	2009	5	25	Homo sapiens; sex: M; age: 7M	NA	NA	15220	100	100	100	100	99.33598938	100	100	100
+KJ672553.1	KJ672553	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPI02674/2011	Peru	Iquitos	SouthAm	2011	10	28	Homo sapiens; sex: F; age: 3Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672554.1	KJ672554	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00404/2011	Peru	Piura	SouthAm	2011	4	6	Homo sapiens; sex: M; age: 1Y	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672555.1	KJ672555	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLE9753/2010	Peru	Callao	SouthAm	2010	5	18	Homo sapiens; sex: F; age: 6Y	NA	NA	15158	98.90180879	100	100	100	99.05562933	98.77260982	100	100
+KJ672556.1	KJ672556	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA4224/2008	Peru	Piura	SouthAm	2008	9	4	Homo sapiens; sex: M; age: 9M	NA	NA	15335	100	100	100	100	100	99.87080103	100	100
+KJ672557.1	KJ672557	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00625/2011	Peru	Piura	SouthAm	2011	6	17	Homo sapiens; sex: F; age: 4M	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672558.1	KJ672558	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA8253/2009	Peru	Piura	SouthAm	2009	6	4	Homo sapiens; sex: M; age: 1Y	NA	NA	15290	100	100	100	100	100	99.87080103	100	100
+KJ672559.1	KJ672559	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/CFI1004/2010	Peru	Iquitos	SouthAm	2010	10	7	Homo sapiens; sex: F; age: 19Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672560.1	KJ672560	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA5162/2009	Peru	Piura	SouthAm	2009	1	5	Homo sapiens; sex: F; age: 3Y	NA	NA	15347	100	100	100	100	100	100	100	100
+KJ672565.1	KJ672565	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU7204/2007	Peru	Lima	SouthAm	2007	7	9	Homo sapiens; sex: F; age: 4M	NA	NA	15331	100	100	100	100	100	99.87080103	100	100
+KJ672566.1	KJ672566	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLI1374/2010	Peru	Piura	SouthAm	2010	6	1	Homo sapiens; sex: M; age: 2Y	NA	NA	15256	99.67700258	100	100	100	100	99.67700258	100	100
+KJ672568.1	KJ672568	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLI3275/2010	Peru	Piura	SouthAm	2010	8	20	Homo sapiens; sex: M; age: 1Y	NA	NA	15324	100	100	100	100	100	100	100	100
+KJ672572.1	KJ672572	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA5976/2009	Peru	Iquitos	SouthAm	2009	1	28	Homo sapiens; sex: M; age: 1Y	NA	NA	15142	100	100	100	100	98.18503763	99.87080103	100	100
+KJ672573.1	KJ672573	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA4876/2008	Peru	Lima	SouthAm	2008	12	10	Homo sapiens; sex: M; age: 1Y	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672574.1	KJ672574	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00066/2010	Peru	Piura	SouthAm	2010	12	9	Homo sapiens; sex: M; age: 3Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672575.1	KJ672575	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00525/2011	Peru	Piura	SouthAm	2011	5	12	Homo sapiens; sex: M; age: 9M	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672576.1	KJ672576	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8361/2007	Peru	Piura	SouthAm	2007	9	23	Homo sapiens; sex: M; age: 1Y	NA	NA	15277	100	100	100	100	100	100	100	100
+KJ672579.1	KJ672579	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLI4230/2010	Peru	Piura	SouthAm	2010	9	16	Homo sapiens; sex: M; age: 24Y	NA	NA	15290	100	100	100	100	100	100	100	100
+KJ672580.1	KJ672580	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLI1399/2010	Peru	Piura	SouthAm	2010	5	31	Homo sapiens; sex: F; age: 19Y	NA	NA	15260	99.87080103	100	100	100	100	99.87080103	100	100
+KJ672581.1	KJ672581	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00543/2011	Peru	Piura	SouthAm	2011	5	17	Homo sapiens; sex: F; age: 10M	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672582.1	KJ672582	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00352/2011	Peru	Piura	SouthAm	2011	3	25	Homo sapiens; sex: F; age: 3Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672583.1	KJ672583	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP01224/2012	Peru	Piura	SouthAm	2012	1	27	Homo sapiens; sex: F; age: 4Y	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672584.1	KJ672584	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/CFI1587/2012	Peru	Iquitos	SouthAm	2012	1	11	Homo sapiens; sex: F; age: 1Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672585.1	KJ672585	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP01265/2012	Peru	Piura	SouthAm	2012	2	13	Homo sapiens; sex: M; age: 1Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672586.1	KJ672586	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLI3288/2010	Peru	Piura	SouthAm	2010	8	27	Homo sapiens; sex: M; age: 1Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672587.1	KJ672587	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP00367/2011	Peru	Piura	SouthAm	2011	3	28	Homo sapiens; sex: M; age: 2Y	NA	NA	15277	100	100	100	100	100	100	100	100
+KJ672588.1	KJ672588	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA5350/2009	Peru	Piura	SouthAm	2009	1	18	Homo sapiens; sex: M; age: 2Y	NA	NA	15232	100	100	100	100	99.51305888	99.87080103	100	100
+KJ672591.1	KJ672591	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/CFI1377/2011	Peru	Iquitos	SouthAm	2011	6	21	Homo sapiens; sex: F; age: 3Y	NA	NA	15335	100	100	100	100	100	99.87080103	100	100
+KJ672593.1	KJ672593	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA7790/2009	Peru	Piura	SouthAm	2009	6	1	Homo sapiens; sex: M; age: 8Y	NA	NA	15170	100	100	100	100	98.59819979	100	100	100
+KJ672595.1	KJ672595	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPP01362/2012	Peru	Piura	SouthAm	2012	3	12	Homo sapiens; sex: M; age: 8M	NA	NA	15310	100	100	100	100	100	100	100	100
+KJ672596.1	KJ672596	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU7236/2007	Peru	Piura	SouthAm	2007	7	9	Homo sapiens; sex: F; age: 2Y	NA	NA	15303	100	100	100	100	100	100	100	100
+KJ672601.1	KJ672601	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA4815/2008	Peru	Piura	SouthAm	2008	11	30	Homo sapiens; sex: F; age: 1Y	NA	NA	15298	100	100	100	100	100	99.87080103	100	100
+KJ672603.1	KJ672603	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA5080/2008	Peru	Piura	SouthAm	2008	12	18	Homo sapiens; sex: F; age: 3Y	NA	NA	14762	100	100	100	100	92.5778368	100	100	100
+KJ672604.1	KJ672604	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8889/2007	Peru	Piura	SouthAm	2007	10	26	Homo sapiens; sex: M; age: 1Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672605.1	KJ672605	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLE4204/2009	Peru	Iquitos	SouthAm	2009	9	4	Homo sapiens; sex: M; age: 8Y	NA	NA	15266	100	100	100	100	100	100	100	100
+KJ672606.1	KJ672606	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8652/2007	Peru	Piura	SouthAm	2007	10	2	Homo sapiens; sex: F; age: 6M	NA	NA	15331	100	100	100	100	100	99.87080103	100	100
+KJ672607.1	KJ672607	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8364/2007	Peru	Piura	SouthAm	2007	9	23	Homo sapiens; sex: F; age: 11M	NA	NA	15220	100	100	100	100	99.33598938	100	100	100
+KJ672608.1	KJ672608	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/CFI0242/2010	Peru	Iquitos	SouthAm	2010	1	26	Homo sapiens; sex: F; age: 69Y	NA	NA	15240	99.93540052	100	100	100	100	99.93540052	100	100
+KJ672609.1	KJ672609	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLE8246/2010	Peru	Piura	SouthAm	2010	2	5	Homo sapiens; sex: M; age: 7M	NA	NA	15269	99.6124031	100	100	100	100	99.6124031	100	100
+KJ672610.1	KJ672610	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8594/2007	Peru	Iquitos	SouthAm	2007	9	27	Homo sapiens; sex: M; age: 1Y	NA	NA	15267	100	100	100	100	100	100	100	100
+KJ672612.1	KJ672612	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8666/2007	Peru	Piura	SouthAm	2007	10	6	Homo sapiens; sex: F; age: 6Y	NA	NA	15290	100	100	100	100	100	100	100	100
+KJ672613.1	KJ672613	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/CFI1036/2010	Peru	Iquitos	SouthAm	2010	10	15	Homo sapiens; sex: M; age: 1Y	NA	NA	15353	100	100	100	100	100	99.87080103	100	100
+KJ672614.1	KJ672614	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FPI02659/2011	Peru	Iquitos	SouthAm	2011	10	27	Homo sapiens; sex: F; age: 1Y	NA	NA	15353	100	100	100	100	100	100	100	100
+KJ672615.1	KJ672615	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLA3621/2008	Peru	Piura	SouthAm	2008	8	12	Homo sapiens; sex: M; age: 9M	NA	NA	15319	100	100	100	100	100	99.87080103	100	100
+KJ672616.1	KJ672616	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/FLU8925/2007	Peru	Iquitos	SouthAm	2007	10	17	Homo sapiens; sex: M; age: 2Y	NA	NA	15335	100	100	100	100	100	99.87080103	100	100
+KJ672618.1	KJ672618	Human respirovirus 3	viral cRNA	HPIV3/Homo sapiens/PER/CFI1849/2012	Peru	Iquitos	SouthAm	2012	5	14	Homo sapiens; sex: F; age: 1Y	NA	NA	15266	100	100	100	100	100	99.87080103	100	100
+KM190938.1	KM190938	Human respirovirus 3	viral cRNA	NA	Thailand	NA	Asia	2012	2	21	Homo sapiens	NA	VIROAF11	15440	100	100	100	100	100	100	100	100
+LC530051.1	LC530051	Human respirovirus 3	viral cRNA	NA	Japan	NA	Asia	2019	6	19	Homo sapiens	NA	sugckmmaht NGO4	15319	100	100	100	100	100	99.87080103	100	100
+LC654459.1	LC654459	Human respirovirus 3	genomic RNA	NA	USA	NA	NorthAm	2018	6	18	Homp sapiens 1d old boy	NA	NIID_79133_1_2019	15273	100	100	100	100	100	99.87080103	100	100
+MF034888.1	MF034888	Human respirovirus 3	viral cRNA	NA	USA	"Little Rock, Arkansas"	NorthAm	2016	5	20	Homo sapiens	nasopharyngeal swab	hPIV3/USA/UAMS_030/2016	15396	100	100	100	100	100	100	99.77888336	100
+MF034891.1	MF034891	Human respirovirus 3	viral cRNA	NA	USA	"Little Rock, Arkansas"	NorthAm	2016	6	4	Homo sapiens	nasopharyngeal swab	hPIV3/USA/UAMS_047/2016	15445	100	100	99.01234568	100	100	100	100	100
+MF034892.1	MF034892	Human respirovirus 3	viral cRNA	NA	USA	"Little Rock, Arkansas"	NorthAm	2016	6	21	Homo sapiens	nasopharyngeal swab	hPIV3/USA/UAMS_049/2016	15446	100	100	99.69135802	100	100	100	100	100
+MF034893.1	MF034893	Human respirovirus 3	viral cRNA	NA	USA	"Little Rock, Arkansas"	NorthAm	2016	6	24	Homo sapiens	nasopharyngeal swab	hPIV3/USA/UAMS_050/2016	15399	100	97.36346516	95.12345679	100	91.43539242	100	100	100
+MF987836.1	MF987836	Human respirovirus 3	viral cRNA	NA	Brazil	NA	SouthAm	2010	1	14	Homo sapiens	nasopharyngeal aspirate	STA762	15440	100	100	100	100	100	100	100	100
+MF987837.1	MF987837	Human respirovirus 3	viral cRNA	NA	Brazil	NA	SouthAm	2010	3	31	Homo sapiens	nasopharyngeal aspirate	STA829	15422	100	100	100	100	100	100	100	100
+MG773276.1	MG773276	Human respirovirus 3	viral cRNA	NA	Argentina	NA	SouthAm	2017	7	19	Homo sapiens	nasopharyngeal aspirate	HPIV3/BuenosAires/ARG/002/2017	15263	100	100	100	100	100	99.87080103	100	100
+MH006633.1	MH006633	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	4	2	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/019/2009	15307	100	100	100	100	100	100	100	100
+MH006634.1	MH006634	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	4	9	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/020/2009	15313	100	100	100	100	100	100	100	100
+MH006635.1	MH006635	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	5	12	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/021/2009	15315	100	100	100	100	100	100	100	100
+MH006639.1	MH006639	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	6	10	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/025/2009	15296	100	100	100	100	100	100	100	100
+MH006646.1	MH006646	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	3	17	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/051/2009	15316	100	100	100	100	100	100	100	100
+MH006654.1	MH006654	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	11	5	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/074/2009	15314	100	100	100	100	100	100	100	100
+MH006658.1	MH006658	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	12	18	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/078/2009	15291	100	100	100	100	100	100	100	100
+MH006672.1	MH006672	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2010	5	28	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/094/2010	15315	100	100	100	100	100	100	100	100
+MH006674.1	MH006674	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	12	28	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/096/2009	15304	100	100	100	100	100	100	100	100
+MH006676.1	MH006676	Human respirovirus 3	viral cRNA	NA	Viet Nam	NA	Asia	2009	12	10	Homo sapiens	nasopharyngeal swab	HPIV3/VietNam/098/2009	15330	100	100	100	100	100	100	100	100
+MH330335.1	MH330335	Human respirovirus 3	viral cRNA	NIV1721711	India	"Pune District, Maharashtra State"	Asia	2017	1	30	Homo sapiens	NA	NA	15431	100	100	100	100	100	99.87080103	100	100
+MH411617.1	MH411617	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	4	24	Homo sapiens	sputum	PIV3-15462	15462	100	100	100	100	100	100	100	100
+MH428627.1	MH428627	Human respirovirus 3	viral cRNA	NA	Uganda	"Kibale National Park, Kanyawara"	Africa	2017	1	1	Pan troglodytes schweinfurthii	NA	UG-KAN-RW-2017	15407	100	100	100	100	100	99.87080103	100	100
+MH678674.1	MH678674	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2011	6	1	Homo sapiens	upper respiratory tract swab from 54	HPIV3/UK/65/06/2011	15409	100	100	100	100	100	100	100	100
+MH678675.1	MH678675	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2012	6	1	Homo sapiens	upper respiratory tract swab from 84	HPIV3/UK/112/06/2012	15409	100	100	100	100	100	99.87080103	100	100
+MH678676.1	MH678676	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2012	7	1	Homo sapiens	upper respiratory tract swab from 42	HPIV3/UK/113/07/2012	15409	100	100	100	100	100	99.87080103	100	100
+MH678677.1	MH678677	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2012	11	1	Homo sapiens	upper respiratory tract swab from 61	HPIV3/UK/121/11/2012	15409	100	100	100	100	100	100	100	100
+MH678678.1	MH678678	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2013	2	1	Homo sapiens	nasopharyngeal aspirate from 9 month	HPIV3/UK/128/02/2013	15409	100	100	100	100	100	99.87080103	100	100
+MH678679.1	MH678679	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2013	2	1	Homo sapiens	tracheal aspirate from 4 year old	HPIV3/UK/129/02/2013	15409	100	100	100	100	100	100	100	100
+MH678680.1	MH678680	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2013	4	1	Homo sapiens	nasopharyngeal aspirate from 12 year	HPIV3/UK/153/04/2013	15409	100	100	100	100	100	99.87080103	100	100
+MH678681.1	MH678681	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2013	5	1	Homo sapiens	nasopharyngeal aspirate from 3 month	HPIV3/UK/180/05/2013	15409	99.87080103	100	100	100	100	99.87080103	100	100
+MH678683.1	MH678683	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2014	11	1	Homo sapiens	upper respiratory tract swab from 1	HPIV3/UK/14/11/2014	15409	100	100	100	100	100	99.87080103	100	100
+MH678684.1	MH678684	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2014	5	1	Homo sapiens	upper respiratory tract swab from 50	HPIV3/UK/16/05/2014	15409	100	100	100	100	100	100	100	100
+MH678685.1	MH678685	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2014	6	1	Homo sapiens	upper respiratory tract swab from 54	HPIV3/UK/21/06/2014	15409	100	100	100	100	100	99.87080103	100	100
+MH678686.1	MH678686	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2014	7	1	Homo sapiens	upper respiratory tract swab from 60	HPIV3/UK/30/07/2014	15409	100	100	100	100	100	99.87080103	100	100
+MH678687.1	MH678687	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2011	6	1	Homo sapiens	upper respiratory tract swab from 56	HPIV3/UK/60/06/2011	15409	100	100	100	100	100	100	100	100
+MH678688.1	MH678688	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2011	7	1	Homo sapiens	upper respiratory tract swab from 2	HPIV3/UK/82/07/2011	15409	100	100	100	100	100	100	100	100
+MH678689.1	MH678689	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2012	12	1	Homo sapiens	nasopharyngeal aspirate from 9 month	HPIV3/UK/122/12/2012	15409	100	100	100	100	100	100	100	100
+MH678690.1	MH678690	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2015	3	1	Homo sapiens	upper respiratory tract swab from 80	HPIV3/UK/362/03/2015	15409	100	100	100	100	100	99.87080103	100	100
+MH678691.1	MH678691	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2015	4	1	Homo sapiens	upper respiratory tract swab from 89	HPIV3/UK/371/04/2015	15409	100	100	100	100	100	99.87080103	100	100
+MH678692.1	MH678692	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2014	2	1	Homo sapiens	upper respiratory tract swab from 1	HPIV3/UK/390/02/2014	15409	100	100	100	100	100	99.87080103	100	100
+MH678693.1	MH678693	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2015	4	1	Homo sapiens	upper respiratory tract swab from 70	HPIV3/UK/395/04/2015	15409	100	100	100	100	100	99.87080103	100	100
+MH678694.1	MH678694	Human respirovirus 3	viral cRNA	NA	United Kingdom	NA	Europe	2014	4	1	Homo sapiens	upper respiratory tract swab from 58	HPIV3/UK/53/04/2014	15409	100	100	100	100	100	100	100	100
+MH828695.1	MH828695	Human respirovirus 3	viral cRNA	vzhpiv31	Viet Nam	NA	Asia	2014	12	17	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	99.87080103	100	100
+MH828696.1	MH828696	Human respirovirus 3	viral cRNA	vzhpiv32	Viet Nam	NA	Asia	2014	1	10	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	99.87080103	100	100
+MH828697.1	MH828697	Human respirovirus 3	viral cRNA	vzhpiv33	Viet Nam	NA	Asia	2014	2	7	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	99.87080103	100	100
+MH828698.1	MH828698	Human respirovirus 3	viral cRNA	vzhpiv34	Viet Nam	NA	Asia	2014	1	23	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	100	100	100
+MH828699.1	MH828699	Human respirovirus 3	viral cRNA	vzhpiv35	Viet Nam	NA	Asia	2015	1	15	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	100	100	100
+MH828700.1	MH828700	Human respirovirus 3	viral cRNA	vzhpiv36	Viet Nam	NA	Asia	2015	6	17	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	100	100	100
+MH828701.1	MH828701	Human respirovirus 3	viral cRNA	vzhpiv37	Viet Nam	NA	Asia	2015	3	13	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	100	100	100
+MH828702.1	MH828702	Human respirovirus 3	viral cRNA	vzhpiv38	Viet Nam	NA	Asia	2014	12	22	Homo sapiens	NT swab	NA	15405	100	100	100	100	100	100	100	100
+MH892409.1	MH892409	Human respirovirus 3	viral cRNA	t146a304_HPIV3	Netherlands	NA	Europe	2016	8	1	Homo sapiens	NA	NA	15387	100	100	100	100	100	99.87080103	100	100
+MH892410.1	MH892410	Human respirovirus 3	viral cRNA	t146a305_HPIV3	Netherlands	NA	Europe	2013	11	29	Homo sapiens	NA	NA	15409	100	100	100	100	100	99.87080103	100	100
+MK679525.1	MK679525	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	4	4	Homo sapiens	sputum	C144	15462	100	100	100	100	100	100	100	100
+MK679526.1	MK679526	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	5	3	Homo sapiens	sputum	C157	15462	100	100	100	100	100	100	100	100
+MK679527.1	MK679527	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	6	27	Homo sapiens	sputum	C257	15462	100	100	100	100	100	100	100	100
+MK679528.1	MK679528	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	7	18	Homo sapiens	sputum	C278	15462	100	100	100	100	100	100	100	100
+MK679529.1	MK679529	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	8	15	Homo sapiens	sputum	C303	15462	100	100	100	100	100	100	100	100
+MK679530.1	MK679530	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	11	14	Homo sapiens	sputum	P722	15462	100	100	100	100	100	100	100	100
+MK679531.1	MK679531	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	12	12	Homo sapiens	sputum	P796	15462	100	100	100	100	100	99.87080103	100	100
+MK679532.1	MK679532	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	7	11	Homo sapiens	sputum	P461	15462	100	100	100	100	100	100	100	100
+MK679533.1	MK679533	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	7	11	Homo sapiens	sputum	P457	15462	100	100	100	100	100	100	100	100
+MK679534.1	MK679534	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	6	27	Homo sapiens	sputum	P436	15462	100	100	100	100	100	100	100	100
+MK679535.1	MK679535	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	9	12	Homo sapiens	sputum	C337	15462	100	100	100	100	100	99.87080103	100	100
+MK679536.1	MK679536	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	6	21	Homo sapiens	sputum	C256	15462	100	100	100	100	100	100	100	100
+MK679537.1	MK679537	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	5	3	Homo sapiens	sputum	C161	15462	100	100	100	100	100	100	100	100
+MK679538.1	MK679538	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	3	25	Homo sapiens	sputum	C147	15462	100	100	100	100	100	100	100	100
+MK679539.1	MK679539	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	3	28	Homo sapiens	sputum	C94	15462	100	100	100	100	100	100	100	100
+MK679540.1	MK679540	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	3	28	Homo sapiens	sputum	C84	15462	100	100	100	100	100	100	100	100
+MK679541.1	MK679541	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	8	15	Homo sapiens	sputum	P535	15462	100	100	100	100	100	100	100	100
+MK679542.1	MK679542	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	10	24	Homo sapiens	sputum	P672	15462	100	100	100	100	100	99.87080103	100	100
+MN145874.1	MN145874	Human respirovirus 3	viral cRNA	HPIV3/08/ZJ/CHN/2017	China	NA	Asia	2017	3	1	Homo sapiens	throat swab	NA	15442	100	100	100	100	100	99.87080103	100	100
+MN145875.1	MN145875	Human respirovirus 3	viral cRNA	HPIV3/06/ZJ/CHN/2017	China	NA	Asia	2017	3	1	Homo sapiens	throat swab	NA	15442	100	100	100	100	100	100	100	100
+MN145876.1	MN145876	Human respirovirus 3	viral cRNA	HPIV3/38/ZJ/CHN/2018	China	NA	Asia	2017	3	1	Homo sapiens	throat swab	NA	15460	100	100	100	100	100	100	100	100
+MT210644.1	MT210644	Human respirovirus 3	viral cRNA	NA	USA	NA	NorthAm	2020	3	6	Homo sapiens	NA	USA/06-MAR-2020	15430	100	100	100	100	100	99.87080103	100	100
+MT374082.1	MT374082	Human respirovirus 3	viral cRNA	NA	China	"Lanzhou, Gansu"	Asia	2017	2	1	Homo sapiens	NA	HPIV3LZ1728C19	15462	100	100	100	100	100	100	100	100
+MW587046.1	MW587046	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	2	1	Homo sapiens	NA	S0706WAY	15428	100	100	100	100	100	100	100	100
+MW587047.1	MW587047	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	2	1	Homo sapiens	NA	S0742LY	15428	100	100	100	100	100	100	100	100
+MW587048.1	MW587048	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	2	1	Homo sapiens	NA	S0659WML	15414	100	100	100	100	100	100	100	100
+MW587049.1	MW587049	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	2	1	Homo sapiens	NA	S0662XLR	15413	100	100	100	100	100	100	100	100
+MW587050.1	MW587050	Human respirovirus 3	viral cRNA	NA	China	NA	Asia	2017	2	1	Homo sapiens	NA	S0939LX	15414	100	100	100	100	100	99.87080103	100	100
+ON778021.1	ON778021	Human respirovirus 3	viral cRNA	PIV3_1	USA	NA	NorthAm	2019	10	15	Homo sapiens	NA	NA	15403	100	100	100	100	100	99.87080103	100	100
+ON778022.1	ON778022	Human respirovirus 3	viral cRNA	PIV3_2	USA	NA	NorthAm	2019	10	21	Homo sapiens	NA	NA	15430	100	100	100	100	100	99.87080103	100	100
+ON778023.1	ON778023	Human respirovirus 3	viral cRNA	PIV3_3	USA	NA	NorthAm	2021	5	13	Homo sapiens	NA	NA	15428	100	100	100	99.88365329	100	99.87080103	100	100
+ON778024.1	ON778024	Human respirovirus 3	viral cRNA	PIV3_4	USA	NA	NorthAm	2021	5	25	Homo sapiens	NA	NA	15430	100	100	100	99.88365329	100	99.87080103	100	100
