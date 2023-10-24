@@ -78,10 +78,22 @@ python pairwise_ref_aligns_to_msa.py --refseq-fasta ../reference_ncbi_virus_geno
 ```
 
 (2) Whole genome maximum likelihood phylogentic tree inference
+We used IQ-Tree version 2.2.2.3 for whole genome ML phylogenetic tree reconstruction.
+```
+iqtree -s ref_pw_ginsi.cov_90_sites_MSA.fasta --seqtype DNA --prefix ref_pw_ginsi.cov_90_sites_MSA.iqtree -B 1000 -T 2
+```
 
 (3) HN gene multiple sequence alignment
+For this single gene multiple sequence alignment, we used mafft.
+```
+mafft --retree 2 --maxiterate 1000 PIV3_nuc_20230423.HN_gene.fasta > PIV3_nuc_20230423.HN_gene.mafft.aln
+```
 
 (4) HN gene maximum likelihood phylogenetic tree inference
+We used IQ-Tree version 2.0.3 for HN gene phylogenetic reconstruction. Note that the version is different from what was used for WG ML tree (due to using server instrument) and hence there are a slight difference in parameter argument styles.
+```
+iqtree -s PIV3_nuc_20230423.HN_gene.mafft.aln --seqtype DNA --prefix PIV3_nuc_20230423.HN_gene.mafft.iqtree -T 2 -B 1000
+```
 
 (5) Codon-by-codon alignment per CDS
 I used an in-house python script that takes nucleotide input sequences in fasta format and generate codon-aligned nucleotide alignment fasta file. 
