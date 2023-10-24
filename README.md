@@ -9,12 +9,17 @@ In this repository we provide the sequence data and the accompanying metadata fi
 *All data files can be found in the files branch of this repository or accessed through the link provided below, next to each item's title.*
 
 (1) The tsv file that contains accession number and metadata (parsed from the genbank records) of all PIV3 sequences, regardless of the sequenced region (single gene - whole genome). The entries in this table include the sequences that were not analyzed in the subsequent steps.
-* __PIV3_NCBI_accessions_metadata_genome_coverage.tsv__ --> [File]()
+* __PIV3_NCBI_accessions_metadata_genome_coverage.tsv__ --> [File](https://github.com/kihyunee/parainfluenza_lineages/blob/88605fda870c4ca9e3a51912fa13133941b3d091/PIV3_NCBI_accessions_metadata_genome_coverage.tsv)
 
 (2) Sequence fasta and the accession information for the subset of sequences that we considered as "whole genomes", i.e., covering all six known CDS regions of PIV-3 genome. For the time-scaled phylogenetic analysis, we used the items whose sampling date were resolved at least at month level.
-* __list_analyzed_WG.20230423.tsv :__ [File]()
-* __subset.month_resolved.WG.metadata_pseudoday.tsv :__ [File]()
+* __list_analyzed_WG.20230423.tsv__  --> [File](https://github.com/kihyunee/parainfluenza_lineages/blob/88605fda870c4ca9e3a51912fa13133941b3d091/list_analyzed_WG.20230423.tsv)
+* __subset.month_resolved.WG.metadata_pseudoday.tsv__  --> [File](https://github.com/kihyunee/parainfluenza_lineages/blob/88605fda870c4ca9e3a51912fa13133941b3d091/subset.month_resolved.WG.metadata_pseudoday.tsv)
+* __PIV3_nuc_20230423.HPIV3_ref_cds.blastn.all_gene_cov90.fasta__ --> [File](https://github.com/kihyunee/parainfluenza_lineages/blob/88605fda870c4ca9e3a51912fa13133941b3d091/PIV3_nuc_20230423.HPIV3_ref_cds.blastn.all_gene_cov90.fasta)
 
 (3) Sequence fasta and the accession information for the subset of sequences that we considered to cover the HN gene with >90% coverage. For the time-scaled phylogenetic analysis, we used the items whose sampling date were resolved at least at month level.
-* __list_analyzed_HN.20230423.tsv :__ [File]()
-* __subset.month_resolved.HN.metadata_pseudoday.tsv :__ [File]()
+* __list_analyzed_HN.20230423.tsv__  --> [File](https://github.com/kihyunee/parainfluenza_lineages/blob/88605fda870c4ca9e3a51912fa13133941b3d091/list_analyzed_HN.20230423.tsv)
+* __subset.month_resolved.HN.metadata_pseudoday.tsv__  --> [File](https://github.com/kihyunee/parainfluenza_lineages/blob/88605fda870c4ca9e3a51912fa13133941b3d091/subset.month_resolved.HN.metadata_pseudoday.tsv)
+* __PIV3_nuc_20230423.HN_gene.fasta__ --> [File](https://github.com/kihyunee/parainfluenza_lineages/blob/88605fda870c4ca9e3a51912fa13133941b3d091/PIV3_nuc_20230423.HN_gene.fasta)
+
+
+## Scripts
