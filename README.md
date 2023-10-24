@@ -23,3 +23,34 @@ In this repository we provide the sequence data and the accompanying metadata fi
 
 
 ## Scripts
+(1) Whole genome multiple sequence alignment
+
+(2) Whole genome maximum likelihood phylogentic tree inference
+
+(3) HN gene multiple sequence alignment
+
+(4) HN gene maximum likelihood phylogenetic tree inference
+
+(5) Codon-by-codon alignment per CDS
+I used an in-house python script that takes nucleotide input sequences in fasta format and generate codon-aligned nucleotide alignment fasta file. 
+This script is available in this repository's file section --> [python file](https://github.com/kihyunee/parainfluenza_lineages/blob/bb30d18b5bf9ce584a546855ed2d24090079029a/codon_alignment_from_cds_nt_fasta.py). 
+You can also find the input CDS-by-CDS fasta files in the file section.
+```
+python codon_alignment_from_cds_nt_fasta.py --in genomic_gene_extract.452_genome.NP.fasta --out genomic_gene_extract.452_genome.NP.codon_align.aln --muscle [PATH_TO_MUSCLE5]
+python codon_alignment_from_cds_nt_fasta.py --in genomic_gene_extract.452_genome.PCD.fasta --out genomic_gene_extract.452_genome.PCD.codon_align.aln --muscle [PATH_TO_MUSCLE5]
+python codon_alignment_from_cds_nt_fasta.py --in genomic_gene_extract.452_genome.F.fasta --out genomic_gene_extract.452_genome.F.codon_align.aln --muscle [PATH_TO_MUSCLE5]
+python codon_alignment_from_cds_nt_fasta.py --in genomic_gene_extract.452_genome.HN.fasta --out genomic_gene_extract.452_genome.HN.codon_align.aln --muscle [PATH_TO_MUSCLE5]
+python codon_alignment_from_cds_nt_fasta.py --in genomic_gene_extract.452_genome.M.fasta --out genomic_gene_extract.452_genome.M.codon_align.aln --muscle [PATH_TO_MUSCLE5]
+python codon_alignment_from_cds_nt_fasta.py --in genomic_gene_extract.452_genome.L.fasta --out genomic_gene_extract.452_genome.L.codon_align.aln --muscle [PATH_TO_MUSCLE5]
+```
+
+(6) SLAC on data monkey
+You can easily replicate the site-by-site substitution rate analysis presented in the paper by going to [SLAC on Datamonkey](https://www.datamonkey.org/slac) (https://www.datamonkey.org/slac) and upload the codon-aligned fasta files created in the previous section.
+
+(7) TempEst and BEAST on whole genome sequences
+
+(8) TempEst and BEAST on HN gene sequences
+
+
+
+
