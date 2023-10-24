@@ -24,6 +24,58 @@ In this repository we provide the sequence data and the accompanying metadata fi
 
 ## Scripts
 (1) Whole genome multiple sequence alignment
+We first aligned each whole genome sequence entry against a fixed reference genome. 
+This was done by the following bash script, where we used *__ginsi__* command of MAFFT software to align each entry in the query fasta (containing multiple entries) vs. a fixed reference file (KF530231.fastsa).
+
+```
+#!/bin/bash
+
+if [ ! -d ref_pw_ginsi ]; then
+        mkdir ref_pw_ginsi
+fi
+
+query_wg_fasta=$1
+n_query=$(grep -c ">" ${query_wg_fasta})
+n_proc=0
+
+while [ ${n_proc} -lt ${n_query} ]
+do
+        let n_proc=${n_proc}+1
+        let qfrom=2*${n_proc}-1
+        let qto=2*${n_proc}
+        echo ""
+        echo "###"
+        echo "### ${n_proc}/${n_query} "
+        echo "###    ${qfrom} .. ${qto}p"
+        echo "###"
+        echo ""
+        sed -n ${qfrom},${qto}p ${query_wg_fasta} > tmp_query_seq.template
+        query_acc="$(grep ">" tmp_query_seq.template | tr -d '>')"
+        cat tmp_query_seq.template > ref_pw_ginsi/${query_acc}.template
+        cat ../reference_ncbi_virus_genomes/HPIV3_ref_fasta/KF530231.fasta >> ref_pw_ginsi/${query_acc}.template
+        ginsi ref_pw_ginsi/${query_acc}.template > ref_pw_ginsi/${query_acc}.aln
+        rm tmp_query_seq.template
+
+done
+```
+
+Then we prepared the file-of-file-names (fofn) tsv file indicating the path to ginsi output file (column 2) per input strain (column 1). The fofn file looks like this.
+```
+head ref_pw_ginsi.fofn
+MK167032.2      ref_pw_ginsi/MK167032.2.aln
+KY973582.2      ref_pw_ginsi/KY973582.2.aln
+KY973581.2      ref_pw_ginsi/KY973581.2.aln
+KY973579.2      ref_pw_ginsi/KY973579.2.aln
+KY973577.2      ref_pw_ginsi/KY973577.2.aln
+KY973575.2      ref_pw_ginsi/KY973575.2.aln
+MF973173.1      ref_pw_ginsi/MF973173.1.aln
+...
+```
+
+Then we joined the individual alignments into multiple alignment by a simple custom python script. The script can be found here, --> [python file](https://github.com/kihyunee/parainfluenza_lineages/blob/69a0340f2bbb9c12dacc25643534a2f269a0e6c0/pairwise_ref_aligns_to_msa.py)
+```
+python pairwise_ref_aligns_to_msa.py --refseq-fasta ../reference_ncbi_virus_genomes/HPIV3_ref_fasta/KF530231.fasta --query-aln-fofn ref_pw_ginsi.fofn --cov 0.9 --out ref_pw_ginsi.cov_90_sites_MSA.fasta
+```
 
 (2) Whole genome maximum likelihood phylogentic tree inference
 
